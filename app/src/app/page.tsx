@@ -39,7 +39,7 @@ export default function Page() {
         <div className="card chat-card">
           <div>
             <span className="eyebrow">Copilot</span>
-            <h1 className="chat-title">Ask about the current state of the system</h1>
+            <h1 className="chat-title">Kevin was here</h1>
             <p className="muted-text chat-intro">
               The chat agent can inspect tasks, events, and semantic matches before it answers.
             </p>
